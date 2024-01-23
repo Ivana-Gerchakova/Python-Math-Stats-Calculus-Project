@@ -13,4 +13,9 @@ Algorithmic Comparison: Evaluating the performance of optimization algorithms su
 Regression Analysis: Employing regression techniques to minimize the error in the model parameter.
 
 ## Project Preview :
-<img src="Images/Poisson Distribution.png">
+Multidimensional Optimization :
+<img src="Images/1.png">
+Gradient Descent and the Newton's method :
+<img src="Images/2.png">
+Regression techniques to minimize the error : 
+<img src="Images/3.png">
